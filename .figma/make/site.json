@@ -1,0 +1,10 @@
+{
+  "description": "Optimizes hospital resource management with role-based access, secure login, real-time bed tracking, forecasts, anomaly detection, and actionable recommendations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
